@@ -44,7 +44,7 @@
                             <a class="nav-link active" href="login.php">Login</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" href="tes.php">Tes</a>
+                            <a class="nav-link active" href="login.php">Tes</a>
                         </li>
 
                     </ul>
