@@ -1,0 +1,60 @@
+html, body{
+    height: 100%;
+    background-color: #04181b !important;
+}
+
+h1{
+    color: #063f4d;
+}
+
+.mb-3{
+    color: #063f4d;
+}
+
+.global-container{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #158FAD;
+}
+
+.login-form{
+    width: 380px;
+    height: 450px;
+    padding: 20px;
+    background-color: powderblue !important;
+    border-radius: 10px !important;
+}
+
+input[type="text"],
+input[type="password"]{
+    background: #063f4d;
+    color: white;
+    border: 1px solid #063f4d;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus{
+    outline: none;
+    border: none;
+    background: #063f4d;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.card-title{
+    font-weight: 900;
+    padding-top: 20px;
+}
+
+.btn{
+    background: #158FAD;
+    color: white !important;
+    font-weight: 500;
+    transform: translateY(10px);
+    font-size: 14px;
+    border-radius: 10px !important;
+}
